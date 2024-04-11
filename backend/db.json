@@ -1,12 +1,6 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "Que bom que você veio!",
-      "autoria": "Carla",
-      "modelo": "modelo1"
-    },
-    {
       "id": 2,
       "conteudo": "Teste2!",
       "autoria": "Carla",
@@ -17,18 +11,6 @@
       "conteudo": "Teste!",
       "autoria": "Carla",
       "modelo": "modelo3"
-    },
-    {
-      "conteudo": "Teste",
-      "autoria": "Pessoa Teste",
-      "modelo": "modelo3",
-      "id": 4
-    },
-    {
-      "conteudo": "weqweqw eqeqw qe qewwqeqweqw q qw qweqweqw eq  rq ",
-      "autoria": "qweqw",
-      "modelo": "modelo2",
-      "id": 5
     }
   ]
 }
